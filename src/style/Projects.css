@@ -1,0 +1,11 @@
+.projects-container {
+  padding: 2vh;
+  height: 100vh;
+  width: 100vw;
+  background: url(../background/smallconcert006.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  flex: 0 1 60vw;
+  margin: 0;
+}

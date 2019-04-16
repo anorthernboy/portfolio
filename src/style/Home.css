@@ -1,0 +1,20 @@
+.home-container {
+  padding: 2vh;
+  height: 100vh;
+  width: 100vw;
+  background: url(../background/smallthoughts005.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  flex: 0 1 60vw;
+  margin: 0;
+}
+
+.home-title {
+  padding-top: 20vh;
+  padding-left: 60vw;
+  font-weight: 400;
+  font-size: 2.5rem;
+  text-transform: lowercase;
+  color: #464646;
+}
