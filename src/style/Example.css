@@ -1,4 +1,5 @@
 .example-content-container {
+  padding-right: 2vw;
   width: 40vw;
   float: right;
 }
