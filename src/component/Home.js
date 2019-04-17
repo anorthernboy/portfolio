@@ -13,7 +13,7 @@ class Home extends Component {
               Good design is unobtrusive Good design is honest Good design is
               long lasting Good design is thorough down to the last detail Good
               design is environmentally friendly Good design is as little design
-              as possible"
+          as possible | more..."
           link="https://dieterrams.tumblr.com/"
           target="_blank"
         />

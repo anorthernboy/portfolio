@@ -26,8 +26,8 @@ class Contact extends Component {
             </div>
           }
           title="say hello"
-          text="You say 'Yes', I say 'No' You say 'Stop' and I say 'Go, go, go' Oh no You say 'Goodbye' and I say 'Hello, hello, hello' I don't know why you say 'Goodbye', I say 'Hello, hello, hello' I don't know why you say goodbye, I say hello I say 'High', you say 'Low' You say 'Why?' And I say 'I don't know' Oh no You say 'Goodbye' and I say 'Hello, hello, hello' I don't know why you say 'Goodbye', I say 'Hello, hello, hello'"
-          link="mailto:craigweighman@gmail.com?Subject=Hello%20:)"
+          text="You say Yes, I say No You say Stop and I say Go, go, go Oh no You say Goodbye and I say Hello, hello, hello I don't know why you say Goodbye, I say Hello, hello, hello I don't know why you say goodbye, I say hello I say High, you say Low You say Why? And I say I don't know Oh no You say Goodbye and I say Hello, hello, hello I don't know why you say Goodbye, I say Hello, hello, hello | more..."
+          link="mailto:craigweighman@gmail.com?Subject=Hello,%20hello%20hello"
           target=""
         />
       </div>

@@ -60,7 +60,7 @@ class NavBar extends Component {
               <h2>github</h2>
             </a>
             <a
-              href="https://www.linkedin.com/in/craig-weighman-823597182/"
+              href="https://www.linkedin.com/in/craigweighman"
               target="_blank"
               rel="noopener noreferrer"
             >
