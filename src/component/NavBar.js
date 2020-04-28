@@ -53,7 +53,7 @@ class NavBar extends Component {
             </Link>
             <h2>_</h2>
             <a
-              href="medium.com"
+              href="https://medium.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
