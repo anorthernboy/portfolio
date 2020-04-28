@@ -52,13 +52,13 @@ class NavBar extends Component {
               <h2>contact</h2>
             </Link>
             <h2>_</h2>
-            <a
+            /* <a
               href="https://github.com/craigweighman"
               target="_blank"
               rel="noopener noreferrer"
             >
               <h2>github</h2>
-            </a>
+            </a> */
             <a
               href="https://www.linkedin.com/in/craigweighman"
               target="_blank"
