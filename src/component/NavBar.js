@@ -53,18 +53,11 @@ class NavBar extends Component {
             </Link>
             <h2>_</h2>
             <a
-              href="https://github.com/craigweighman"
+              href="medium.com"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <h2>github</h2>
-            </a>
-            <a
-              href="https://www.linkedin.com/in/craigweighman"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <h2>linkedin</h2>
+              <h2>blog</h2>
             </a>
           </div>
         </div>
