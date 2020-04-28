@@ -24,11 +24,11 @@ class Contact extends Component {
               <br />
               <br />
             </div>
-          }
+          }      
           title="say hello"
           text="You say Yes, I say No You say Stop and I say Go, go, go Oh no You say Goodbye and I say Hello, hello, hello I don't know why you say Goodbye, I say Hello, hello, hello I don't know why you say goodbye, I say hello I say High, you say Low You say Why? And I say I don't know Oh no You say Goodbye and I say Hello, hello, hello I don't know why you say Goodbye, I say Hello, hello, hello | more..."
-          link="mailto:craigweighman@gmail.com?Subject=Hello,%20hello%20hello"
-          target=""
+          link="https://www.linkedin.com/in/craigweighman"
+          target="_blank"
         />
       </div>
     );
