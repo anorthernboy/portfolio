@@ -19,7 +19,7 @@ class Projects extends Component {
           }
           title="canvas designer"
           text="an exploration into art and minimalism, using p5.js to randomly generate a rendered canvas with an abstract geometric composition of shape and colour | more..."
-          link="http://canvasdesigner.rf.gd"
+          link=""
           target="_blank"
         />
         <Example
