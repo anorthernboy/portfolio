@@ -15,7 +15,7 @@ class Work extends Component {
           }
           title="hoptions"
           text="A craft-beer discovery app using algorithmic recommendations and augmented reality rendering to direct the 	user to the beers most suited to their preferences | more..."
-          link="https://drive.google.com/file/d/1Jk9fPB4lrkaxYcsXoYVET7Jno1jcMIK9/view?usp=sharing"
+          link="https://photos.app.goo.gl/pwQPM899HxmVY5em9"
           target="_blank"
         />
         <Example
